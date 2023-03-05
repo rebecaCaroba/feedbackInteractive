@@ -104,6 +104,9 @@ input[type="radio"] {
     background-color: var(--Orange);
     color: var(--White);
     cursor: pointer;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 700;
 }
 
 #submit:hover{
